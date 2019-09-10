@@ -1,4 +1,4 @@
 MA Xueke
 20492560
 
-screenshot.JPG
+![Screenshot](file:///C:/Users/92002/eclipse-workspace/Lab1/screenshot.JPG)
